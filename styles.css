@@ -102,7 +102,7 @@ p {
     min-height: 325px;
     text-align: center;
     color: #fff;
-    background: #9480e4 url("images/intro-bg.png");
+    background: gray url("images/intro-bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
